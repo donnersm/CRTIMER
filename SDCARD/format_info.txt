@@ -1,0 +1,2 @@
+All files are 8 bit audio files with sample rate of 16Khz Mono
+File 4c is the same as 4 but 4c is done on a backingtrack that can be flagged as copyright.
